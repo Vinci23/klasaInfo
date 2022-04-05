@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\klasaInfo\bin\Debug\klasaInfo.exe.config
+C:\Users\ucenik\source\repos\klasaInfo\bin\Debug\klasaInfo.exe
+C:\Users\ucenik\source\repos\klasaInfo\bin\Debug\klasaInfo.pdb
+C:\Users\ucenik\source\repos\klasaInfo\obj\Debug\klasaInfo.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\klasaInfo\obj\Debug\klasaInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\klasaInfo\obj\Debug\klasaInfo.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\klasaInfo\obj\Debug\klasaInfo.exe
+C:\Users\ucenik\source\repos\klasaInfo\obj\Debug\klasaInfo.pdb
